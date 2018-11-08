@@ -21,7 +21,7 @@ Term: Fall 2018
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) 
 + Group Leader: Zehan Wang. Built the baseline model, including constructed and modified the feature part,super resolution part ,cross validation part and main.rmd file part. Mainly responsible for the model training part.
-+ All other team members contributed equally in all stages of this project. 
++ All other team members contributed equally in all stages of this project. Modified the feature, cross validation, super resolution, train, test and main r file. Created the presentating lectures.
 + All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
